@@ -11,9 +11,11 @@ Most letters are phonetically equivalent, with exceptions including:
 </ul>
 
 Shift + [key] includes these results:
-  Q for טש
-  W for שׂ
-  X for ך
-  etc.
+<ul>
+  <li>Q for טש</li>
+  <li>W for שׂ</li>
+  <li>X for ך</li>
+  <li>etc.</li>
+</ul>
 
 ![keyboard-layout](https://github.com/Maizesheep/Yiddish-Modified-QWERTY-Keyboard-for-Windows-10-11/assets/96145017/c2678187-1e95-4304-b1d2-744250a28175)
