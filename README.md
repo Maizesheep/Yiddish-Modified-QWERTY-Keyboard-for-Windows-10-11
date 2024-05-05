@@ -3,10 +3,12 @@
 This keyboard is a phonetic keyboard for Yiddish based off the US English QWERTY keyboard and Isaac Bleaman's Yiddish Klal keyboard for Mac, with some modifications that are mildly intuitive to me, with the principle that common letters should be easily typeable and the Shift key should modify letters or give Hebrew equivalents.
 
 Most letters are phonetically equivalent, with exceptions including:
-  q for א
-  w for ש
-  x for כ
-  etc.
+<ul>
+  <li>q for א</li>
+  <li>w for ש</li>
+  <li>x for כ</li>
+  <li>etc.</li>
+</ul>
 
 Shift + [key] includes these results:
   Q for טש
